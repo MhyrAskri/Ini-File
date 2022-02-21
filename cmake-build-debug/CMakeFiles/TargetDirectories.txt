@@ -1,0 +1,3 @@
+C:/Users/bcz/CLionProjects/IniFile/cmake-build-debug/CMakeFiles/IniFile.dir
+C:/Users/bcz/CLionProjects/IniFile/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/bcz/CLionProjects/IniFile/cmake-build-debug/CMakeFiles/rebuild_cache.dir

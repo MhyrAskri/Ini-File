@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/bcz/CLionProjects/IniFile/IniReader.h
+
+C:/Users/bcz/CLionProjects/IniFile/IniWriter.h
+
+C:/Users/bcz/CLionProjects/IniFile/main.cpp
+iostream
+C:/Users/bcz/CLionProjects/IniFile/iostream
+IniWriter.h
+C:/Users/bcz/CLionProjects/IniFile/IniWriter.h
+IniReader.h
+C:/Users/bcz/CLionProjects/IniFile/IniReader.h
+
