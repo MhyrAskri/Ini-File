@@ -1,7 +1,6 @@
 #ifndef INIFILE_INIREADER_H
 #define INIFILE_INIREADER_H
 
-
 class IniReader
 {
 public:
@@ -13,6 +12,5 @@ public:
 private:
     char m_szFileName[255];
 };
-
 
 #endif

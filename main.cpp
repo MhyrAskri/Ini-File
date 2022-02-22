@@ -6,8 +6,9 @@ int main(int argc, char * argv[])
     IniWriter iniWriter(".\\Logger.ini");
     iniWriter.WriteString("Setting", "Name", "mhyr");
     iniWriter.WriteInteger("Setting", "Age", 22);
-    iniWriter.WriteFloat("Setting", "Height", 1.80f);
+    iniWriter.WriteFloat("Setting", "Height", 1.82f);
     iniWriter.WriteBoolean("Setting", "Marriage", false);
+
     IniReader iniReader(".\\Logger.ini");
     char *szName = iniReader.ReadString("Setting", "Name", "");
     int iAge = iniReader.ReadInteger("Setting", "Age", 0);
